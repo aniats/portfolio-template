@@ -1,10 +1,20 @@
 - course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+  institute: Yaroslavl State University
+  dates: 2018 - 2022
+  logo: yarsu.svg
   
 - course: Explorer Fellow
   institute: MLH Fellowship
   dates: Fall 2020
   logo: fellowship.svg
+
+- course: Tinkoff Fintech QA Engineer
+  institute: Tinkoff
+  dates: September 2020 - December 2020
+  logo: tinkoff.jpg
+  
+- course: Facebook Mentoring
+  institute: Facebook
+  dates: August 2020 - November 2020
+  logo: facebook.png
   
